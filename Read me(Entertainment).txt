@@ -1,0 +1,6 @@
+1. If any news record contains sentences of less than 10 words than discard that record.
+2. If any news is containing joined ending words like ہواجاتا than discard the remaining.
+3. The defined sub categories are as follows:
+Entertainment: Music, Fashion, Film, Other
+
+4. Submit a word file also in which you have mentioned an approximate amount of manual annotation you have carried out in each file
